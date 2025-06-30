@@ -1,0 +1,15 @@
+# Dados do MySQL (volume)
+wp-data/
+
+# Uploads e caches do WordPress
+wp-html/wp-content/uploads/
+wp-html/wp-content/upgrade/
+wp-html/wp-content/cache/
+
+# Configurações de ambiente
+*.env
+wp-html/wp-config.php
+
+# IDEs e sistema
+.DS_Store
+.idea/
